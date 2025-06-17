@@ -1,3 +1,32 @@
+# Sentiment Overlay Report – Relaxed Dataset
+
+## Topic 0: Politics & Governance
+- **Positive**: 56.0 posts (77.8%)
+- **Neutral**: 0.0 posts (0.0%)
+- **Negative**: 16.0 posts (22.2%)
+
+## Topic 1: Parenting & Youth Challenges
+- **Positive**: 202.0 posts (67.3%)
+- **Neutral**: 0.0 posts (0.0%)
+- **Negative**: 98.0 posts (32.7%)
+
+## Topic 2: Influencers & Platforms
+- **Positive**: 47.0 posts (88.7%)
+- **Neutral**: 0.0 posts (0.0%)
+- **Negative**: 6.0 posts (11.3%)
+
+## Topic 3: Digital Identity & Youth Voice
+- **Positive**: 45.0 posts (56.2%)
+- **Neutral**: 0.0 posts (0.0%)
+- **Negative**: 35.0 posts (43.8%)
+
+## Topic 4: Data Privacy & Regulation
+- **Positive**: 58.0 posts (61.7%)
+- **Neutral**: 1.0 posts (1.1%)
+- **Negative**: 35.0 posts (37.2%)
+
+
+
 ## Topic 0: Politics & Governance
 **Post 1:**
 
